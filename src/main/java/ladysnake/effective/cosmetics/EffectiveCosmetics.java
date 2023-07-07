@@ -57,7 +57,7 @@ public class EffectiveCosmetics implements ClientModInitializer {
 	}.getType();
 
 	// illuminations cosmetics
-	private static final String COSMETICS_URL = "https://doctor4t.ladysnake.org/illuminations-data";
+	private static final String COSMETICS_URL = "https://mrbot.x30network.tk/effectivecosmetics";
 	public static ImmutableMap<String, AuraData> AURAS_DATA;
 	public static ImmutableMap<String, DefaultParticleType> PETS_DATA;
 	public static ImmutableMap<String, OverheadData> OVERHEADS_DATA;
